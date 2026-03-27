@@ -189,6 +189,4 @@ Before publishing your own version, replace:
 - tool set and prompts
 - branding and ownership details
 
-## License
-
-MIT
+## Community files`r`n`r`n- `CONTRIBUTING.md` for contribution guidance`r`n- `SUPPORT.md` for public support guidance`r`n- `SECURITY.md` for private vulnerability reporting guidance`r`n- `CODE_OF_CONDUCT.md` for community expectations`r`n`r`n## Public repo note`r`n`r`nThis repository is provided as a public starter under the MIT License.`r`nIt is offered as-is, without warranty, and you are responsible for reviewing your own deployment, data handling, and security decisions.`r`n`r`n## License`r`n`r`nMIT

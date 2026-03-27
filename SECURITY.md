@@ -1,24 +1,24 @@
 # Security Policy
 
 This repository is intended to be a public starter.
-That means examples should stay generic, sanitized, and safe to clone.
+Keep examples generic, sanitized, and safe to clone.
 
-## Public safety rules
+## Reporting a vulnerability
 
-- Never commit real access tokens, secrets, or refresh tokens.
-- Never commit real customer data.
-- Avoid hardcoding live deployment domains unless they are deliberately public examples.
-- Use placeholder values in metadata, environment examples, and endpoint URLs.
-- Separate OAuth and token lifecycle logic into a dedicated service when the app grows beyond a simple internal prototype.
+Please do not report security vulnerabilities in public GitHub issues.
+If this repository needs a dedicated reporting address later, add it here.
+Until then, use a private maintainer contact channel instead of a public issue.
 
-## Recommended practices
+## Public repository safety rules
 
-- Keep `.env` local only.
-- Use environment variables for all secrets.
-- Rotate credentials if anything sensitive is ever exposed.
-- Review metadata files before publishing because they often contain URLs and app-level descriptions.
-- Treat this repo as a template, not as a production security blueprint.
+- Never commit real tokens, refresh tokens, or secrets.
+- Never commit real customer or portal data.
+- Avoid hardcoding live internal URLs, account IDs, or environment-specific credentials.
+- Prefer placeholders in metadata, examples, and docs.
+- Review metadata files before publishing because they often contain URLs and app descriptions.
 
-## Reporting
+## Scope note
 
-If you adapt this starter for your own project, document your preferred security contact in your fork or derived repository.
+This starter is provided as an example foundation.
+It is not a production security guarantee, compliance guide, or hosted service.
+You are responsible for reviewing and securing your own deployment.
