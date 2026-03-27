@@ -1,0 +1,7 @@
+{
+  "name": "search-crm-records",
+  "label": "Search CRM Records",
+  "description": "Example tool for searching HubSpot CRM records through your own endpoint.",
+  "actionUrl": "https://your-deployment-domain.example.com/api/tools/search-crm-records",
+  "httpMethod": "POST"
+}

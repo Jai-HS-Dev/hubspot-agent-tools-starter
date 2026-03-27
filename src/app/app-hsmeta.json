@@ -1,0 +1,10 @@
+{
+  "name": "HubSpot Agent Tools Starter",
+  "description": "A public starter for building custom HubSpot agent tools.",
+  "auth": {
+    "type": "private_app_or_oauth"
+  },
+  "allowedUrls": [
+    "https://your-deployment-domain.example.com"
+  ]
+}

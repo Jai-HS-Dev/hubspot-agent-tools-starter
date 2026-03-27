@@ -1,0 +1,6 @@
+node_modules/
+.env
+.hs
+.vercel
+.DS_Store
+coverage/

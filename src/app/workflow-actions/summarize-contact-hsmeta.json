@@ -1,0 +1,7 @@
+{
+  "name": "summarize-contact",
+  "label": "Summarize Contact",
+  "description": "Example tool for generating a contact summary through your own endpoint.",
+  "actionUrl": "https://your-deployment-domain.example.com/api/tools/summarize-contact",
+  "httpMethod": "POST"
+}

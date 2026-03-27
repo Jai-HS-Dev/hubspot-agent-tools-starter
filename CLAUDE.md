@@ -1,0 +1,1 @@
+See `AGENTS.md` for the working rules and editing guidance for this repository.
